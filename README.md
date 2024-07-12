@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=_custom_gradient&height=200&section=header&text=✨DABEEN✨&animation=twinkling&fontColor=FFCCFF&capsule%20render&fontSize=90&fontAlignY=60)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![dabeen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daba-byte)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Stk](https://streak-stats.demolab.com/?user=Daba-byte&theme=dark&stroke=FFCCFF&border=FFCCFF&ring=FFCCFF&fire=FFCCFF&dates=FFCCFF&excludeDaysLabel=FFCCFF&)](https://git.io/streak-stats)
