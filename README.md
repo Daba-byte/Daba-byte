@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ![dabeen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daba-byte)
 
-![GitHub Stk](https://streak-stats.demolab.com/?user=Daba-byte&theme=tokyonight&stroke=FFCCFF&border=FFCCFF&ring=FFCCFF&fire=FFCCFF&dates=FFCCFF&excludeDaysLabel=FFCCFF&background=000000&card_width=400)
+![GitHub Stk](https://streak-stats.demolab.com/?user=Daba-byte&theme=tokyonight&stroke=FFCCFF&border=FFCCFF&ring=FFCCFF&fire=FFCCFF&dates=FFCCFF&excludeDaysLabel=FFCCFF&background=000000&card_width=50%)
 
-![Dabeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daba-byte&show_icons=true&theme=omni&bg_color=000000&title_color=FFCCFF&icon_color=FFCCFF&card_width=400)
+![Dabeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daba-byte&show_icons=true&theme=omni&bg_color=000000&title_color=FFCCFF&icon_color=FFCCFF&card_width=50%)
